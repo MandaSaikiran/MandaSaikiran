@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MandaSaikiran
 - 👀 I’m interested in Data Science project 
-- 🌱 I’m currently learning data science 
+- 🌱 I’m currently working in data science field
 - 💞️ I’m looking to collaborate on data science project 
 - 📫 How to reach me saikiranmanda55@gmail.com
 
